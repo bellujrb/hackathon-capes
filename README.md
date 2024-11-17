@@ -16,9 +16,9 @@
 
 ---
 
-## 🌐 Introdução
+## 🌐 Introdution
 
-A Capes Extension é uma extensão de navegador voltada para pesquisadores, estudantes e acadêmicos que desejam explorar referências de artigos científicos de forma prática e visual. O objetivo é criar uma ferramenta que facilite a busca e análise de referências relacionadas a um texto ou artigo específico, utilizando uma interface intuitiva.
+Capes Extension is a browser extension aimed at researchers, students and academics who want to explore references in scientific articles in a practical and visual way. The aim is to create a tool that makes it easier to search for and analyse references related to a specific text or article, using an intuitive interface.
 
 ## 🛠 Installation (Chrome Extension)
 
