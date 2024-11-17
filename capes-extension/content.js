@@ -1,5 +1,4 @@
 (function () {
-    // Criar o overlay para seleção
     const overlay = document.createElement('div');
     overlay.style.position = 'fixed';
     overlay.style.top = '0';
@@ -19,7 +18,6 @@
   
     let startX, startY, isSelecting = false;
 
-    // Artigos e links
     const articles = [
         {
             title: "Wilkins, M.H.F., Stokes, A.R., & Wilson, H.R. (1953). Molecular structure of deoxypentose nucleic acids.",
@@ -69,7 +67,6 @@
     overlay.addEventListener('mouseup', () => {
         isSelecting = false;
 
-        // Criar o popup com links clicáveis
         const popup = document.createElement('div');
         popup.style.position = 'fixed';
         popup.style.top = '50%';
