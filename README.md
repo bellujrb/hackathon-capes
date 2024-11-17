@@ -69,7 +69,7 @@ hackathon_capes
 
 ---
 
-## 🛠 Tech Stack (Backend)
+## 🛠 Tech Stack (Extension)
 - JavaScript 
 
 ## 🙏 Acknowledgments
